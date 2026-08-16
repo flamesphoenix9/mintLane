@@ -1,0 +1,6 @@
+/target/
+/contracts/cache/
+/contracts/out/
+/wallets.json
+config.bat
+node_modules
